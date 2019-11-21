@@ -1,1 +1,0 @@
-# go-programming-by-example
